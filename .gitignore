@@ -3,6 +3,7 @@ __pycache__/
 /music-classification
 *.pdf
 *.pt
+*.pth
 *.zip
 .DS_Store
 .env/
