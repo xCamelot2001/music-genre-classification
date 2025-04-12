@@ -1,0 +1,10 @@
+__pycache__/
+/Data
+/music-classification
+*.pdf
+*.pt
+*.zip
+.DS_Store
+.env/
+*.venv/
+.ipynb_checkpoints/
