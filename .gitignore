@@ -9,3 +9,4 @@ __pycache__/
 .env/
 *.venv/
 .ipynb_checkpoints/*.pth
+c.ipynb
