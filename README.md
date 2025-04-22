@@ -33,12 +33,3 @@ The project implements six different neural network architectures for music genr
 5. **Generate Report Data**:
 
 ## Results
-
-After running the evaluation scripts, the following results will be available in the `results` directory:
-
-- **Confusion matrices** for each model
-- **Performance comparison** across all models
-- **Per-class accuracy** analysis
-- **Feature space visualization** using t-SNE
-- **Training time vs accuracy** analysis
-- **Model efficiency metrics**
