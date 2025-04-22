@@ -1,4 +1,4 @@
-# Music Genre Classification - COMP6252 Coursework
+# Music Genre Classification
 
 This repository contains implementations of neural network architectures for classifying music genres using the GTZAN dataset.
 
